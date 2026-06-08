@@ -4,7 +4,7 @@ Bilibili 首页视频爬虫脚本
 功能：爬取 B 站首页热门视频的标题、作者、链接、播放量、弹幕数等信息。
 原理：调用 B 站公开 API（无需登录），稳定高效。
 依赖：Python 3.7+, requests
-
+# 更新注意
 使用方法：
   1. 安装依赖：   pip install requests
   2. 运行脚本：   python bilibili_scraper.py
